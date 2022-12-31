@@ -17,7 +17,7 @@ local Modules = {
 		["Fish_Collect"] = "wrnlwRtatpoUgelmhejfmruMq/rxfrEGndiqketqOkNveanqecjgjg"
 	},
 	scriptSettings = {
-		blocksPerSecond = 28
+		blocksPerSecond = 30
 	}
 }
 
